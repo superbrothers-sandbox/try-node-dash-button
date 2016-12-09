@@ -1,0 +1,22 @@
+{
+  "name": "try-node-dash-button",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "node-dash-button": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/superbrothers-sandbox/try-node-dash-button.git"
+  },
+  "author": "Kazuki Suda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superbrothers-sandbox/try-node-dash-button/issues"
+  },
+  "homepage": "https://github.com/superbrothers-sandbox/try-node-dash-button#readme"
+}
